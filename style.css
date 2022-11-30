@@ -1,0 +1,209 @@
+
+.container {
+    display: flex;
+   flex-direction: column;
+   width: 100%;
+  
+   
+    
+   
+    
+
+}
+
+
+.header-container{
+    display:flex;
+    gap: 20px;
+    margin-left:100px;
+    color: white;
+    width: 50px;
+    
+    
+   
+
+}
+
+div {
+    font-style:roboto;
+    color:white;
+    font-size: 18px;
+    
+    background-color: rgb(7, 8, 66);
+    height: 100px;
+
+    
+}
+
+#header {
+    font-weight: bold;
+    margin-right: 600px;
+    
+    
+    
+       
+   
+    
+}
+.main-container {
+    font-style:roboto;
+    color:white;
+    
+    width: 100%;
+    padding: 0px;
+    height: 150px;
+
+}
+#main {
+    font-weight:bolder;
+    font-size: 48px;
+    margin-left: 100px;
+    margin-top: -10px;
+
+
+   
+    
+}
+.main-container img{
+    margin-left: 800px;
+    margin-top: -250px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+#secondary {
+    background-color:rgb(7, 8, 66);
+    height: 80px;
+    width: 900px;
+    margin-top: -100px;
+    margin-left: 100px;
+    font-size: 18px;
+    
+}
+.Purchase {
+    background-color: #3882f6;
+    color:white;
+}
+
+
+    
+
+.body {
+    display: flex;
+    background-color: white;    
+    justify-content: center;
+    
+
+   
+}
+.body div{
+    color: black;
+    background-color: white;
+    border: solid lightblue 5px;
+    height: 100px;
+    margin-top: 2px;
+    width: 100px;
+    margin-left: 100px;
+    padding: 10px;
+    object-fit: contain;
+
+        
+}
+.box img{
+    margin-left: -20px;
+    margin-top: -20px;
+}
+.box2 img{ 
+    margin-left: -10px;
+    margin-top: -10px;
+   
+   
+}
+.box3 img{ 
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.box4 img{
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+#title {
+    margin-top: 50px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    height: 50px;
+}
+.gray-container {
+
+    width: 100%;
+    background-color: lightgray;
+    color:black;
+    margin-top: 110px;
+    height: 130px;
+    padding: 50px;
+    
+   
+   
+    
+}
+.quote {
+    background-color: lightgray;
+    color: black;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: -39px;
+
+    
+}
+
+.sad {
+    text-align: end;
+    margin-right: 330px;
+    margin-top: -20px;
+    background-color: lightgray;
+    color: black;
+    font-weight: bolder;
+    font-size: 24px;
+    
+
+}
+
+.white-container {
+    background-color: white;
+    margin-left: 70px;
+    border:solid white 54px;
+    
+   
+        
+    
+    
+}
+.white-container div {
+    background-color: #3882f6;
+   
+    
+    
+}
+
+.white-container .blue {
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+    
+}
+.Sign-Up {
+    background-color: #3882f6;
+    color:white;
+    border: solid white 2px;
+}
+
+
+            
